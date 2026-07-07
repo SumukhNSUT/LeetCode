@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
