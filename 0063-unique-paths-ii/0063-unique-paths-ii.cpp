@@ -5,8 +5,8 @@ class Solution {
     private:
     int fn(int i, int j, vector<vector<int>>&grid, vector<vector<int>>&dp, 
     int n, int m){
-        if(i>=0 && j>=0 && grid[i][j]==1) return 0; //obstacle,invalid path
-        
+        if(i>=0 && j>=0 && grid[i][j]==1) return 0; //obstacle, invalid path
+
         //base case(reached target)
         if(i==0 && j==0) return 1; // 0,0 se 0,0 tak paths
 
