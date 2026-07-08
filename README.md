@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumukhNSUT/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Brainteaser
 |  |
 | ------- |
