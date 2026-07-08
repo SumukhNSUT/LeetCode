@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -92,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
