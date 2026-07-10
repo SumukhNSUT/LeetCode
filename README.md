@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumukhNSUT/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
@@ -45,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
