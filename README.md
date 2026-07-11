@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
