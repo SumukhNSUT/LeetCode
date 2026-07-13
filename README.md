@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sliding Window
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SumukhNSUT/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/1463-cherry-pickup-ii) |
