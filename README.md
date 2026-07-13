@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/SumukhNSUT/LeetCode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Brainteaser
