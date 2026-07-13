@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int maxWidthRamp(vector<int>& nums) {
+        int n = nums.size();
+        stack<pair<int, int>> st; // ele,index
+        // make a decreasing stack
+        for (int i = 0; i < n; i++) {
+            if (st.empty() || st.top().first > nums[i]) {
+                st.push({nums[i], i});
+            }
+        }
+        // start from left
+        int maxi = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && nums[i] >= st.top().first) {
+                maxi = max(maxi, i - st.top().second);
+                st.pop();
+            }
+        }
+        return maxi;
+    }
+};
