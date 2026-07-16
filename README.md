@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
 ## String
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
