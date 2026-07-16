@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
