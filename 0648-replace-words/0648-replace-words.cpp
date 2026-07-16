@@ -11,10 +11,7 @@ class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
         vector<string> words;
-        sort(dictionary.begin(), dictionary.end(),
-     [](string &a, string &b){
-         return a.size() < b.size();
-     });
+        sort(dictionary.begin(), dictionary.end());
         int n=sentence.size();
         string word="";
         for(int i=0; i<=n-1; i++){
