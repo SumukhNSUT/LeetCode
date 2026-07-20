@@ -16,15 +16,13 @@ public:
             int row=it.second.first;
             int col=it.second.second;
             int cnt=it.first;
+            if(row==tx && col==ty) return cnt%2==0;
             for(int i=0; i<dx.size(); i++){
                 int nr=row+dx[i];
                 int nc=col+dy[i];
                 if(nr>=0 && nr<=7 && nc>=0 && nc<=7 && !vis[nr][nc]){
                     q.push({cnt+1,{nr,nc}});
                     vis[nr][nc]=1;
-                    if(nr==tx && nc==ty){
-                        if((cnt+1) % 2==0) return true;
-                    }
                 }
             }
         }
