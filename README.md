@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -250,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
