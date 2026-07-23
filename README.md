@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SumukhNSUT/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/SumukhNSUT/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/SumukhNSUT/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2103-rings-and-rods](https://github.com/SumukhNSUT/LeetCode/tree/master/2103-rings-and-rods) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SumukhNSUT/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/SumukhNSUT/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
