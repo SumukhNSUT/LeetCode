@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SumukhNSUT/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SumukhNSUT/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2103-rings-and-rods](https://github.com/SumukhNSUT/LeetCode/tree/master/2103-rings-and-rods) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SumukhNSUT/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumukhNSUT/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SumukhNSUT/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SumukhNSUT/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
