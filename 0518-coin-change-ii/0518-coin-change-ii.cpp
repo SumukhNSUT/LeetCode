@@ -34,11 +34,11 @@ public:
         //general case
         for(int idx=1; idx<=n-1; idx++){
             for(int target=0; target<=amount; target++){
-                unsigned int pick=0;
+                long long pick=0;
                 if(coins[idx] <= target){
                     pick=dp[idx][target-coins[idx]];
                 }
-                unsigned int npick=dp[idx-1][target];
+                long long npick=dp[idx-1][target];
                 dp[idx][target]=pick+npick;
             }
         }
