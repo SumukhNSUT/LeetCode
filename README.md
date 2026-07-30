@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
