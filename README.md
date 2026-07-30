@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2103-rings-and-rods](https://github.com/SumukhNSUT/LeetCode/tree/master/2103-rings-and-rods) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SumukhNSUT/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/SumukhNSUT/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
