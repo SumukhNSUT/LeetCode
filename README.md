@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/SumukhNSUT/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/SumukhNSUT/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Linked List
 |  |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
