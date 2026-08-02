@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
+| [0877-stone-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0877-stone-game) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1051-height-checker](https://github.com/SumukhNSUT/LeetCode/tree/master/1051-height-checker) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/SumukhNSUT/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SumukhNSUT/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SumukhNSUT/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SumukhNSUT/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Linked List
