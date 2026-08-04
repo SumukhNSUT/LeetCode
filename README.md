@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
+| [3731-find-missing-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/SumukhNSUT/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
