@@ -8,7 +8,7 @@ public:
         while(cnt < n){
             if(!s.count(num)){
                 sum+=num;
-                if((k-num)!=num) s.insert(k-num);
+                s.insert(k-num);
                 cnt++;
                 num++;
             }else{
