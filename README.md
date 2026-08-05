@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/SumukhNSUT/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumukhNSUT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/SumukhNSUT/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/SumukhNSUT/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
 | ------- |
