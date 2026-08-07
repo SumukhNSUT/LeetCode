@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SumukhNSUT/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/SumukhNSUT/LeetCode/tree/master/1447-simplified-fractions) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
