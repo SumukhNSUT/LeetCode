@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/SumukhNSUT/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/SumukhNSUT/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
