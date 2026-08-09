@@ -9,18 +9,14 @@ public:
         while(i<prices.size() && j<discounts.size()){
             int p=prices[i];
             int d=discounts[j];
-            double fp= (double) ( (double) p* (double)(100-d))/ (double) 100;
+            double fp= (double) (p* (100-d))/ (double) 100;
             ans+=fp;
             i++;
             j++;
         }
-        
-        if(i==prices.size()) return ans;
-        else{
-            while(i<prices.size()){
-                ans+=double(prices[i]);
-                i++;
-            }
+        while(i<prices.size()){
+            ans+=double(prices[i]);
+            i++;
         }
         return ans;
     }
