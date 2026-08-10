@@ -438,4 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
