@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/SumukhNSUT/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SumukhNSUT/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SumukhNSUT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/SumukhNSUT/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -459,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SumukhNSUT/LeetCode/tree/master/0337-house-robber-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
