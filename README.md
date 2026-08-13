@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumukhNSUT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SumukhNSUT/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/SumukhNSUT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SumukhNSUT/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -370,12 +372,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0851-loud-and-rich](https://github.com/SumukhNSUT/LeetCode/tree/master/0851-loud-and-rich) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumukhNSUT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SumukhNSUT/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -477,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
