@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumukhNSUT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SumukhNSUT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SumukhNSUT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/SumukhNSUT/LeetCode/tree/master/1051-height-checker) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SumukhNSUT/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SumukhNSUT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SumukhNSUT/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumukhNSUT/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SumukhNSUT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/SumukhNSUT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/SumukhNSUT/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
