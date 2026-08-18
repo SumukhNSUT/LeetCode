@@ -1,11 +1,4 @@
 class Solution {
-private:
-    bool fn(int s, int e, vector<int>&nums, int x){
-        for(int i=s; i<=e; i++){
-            if(nums[i] == x) return true;
-        }
-        return false;
-    }
 public:
     int largestInteger(vector<int>& nums, int k) {
         int n=nums.size();
@@ -15,14 +8,24 @@ public:
             //check all windows of size k
             int cnt=0;
             int s=0;
-            int e=k-1;
+            int e=0;
+            unordered_map<int,int> mp; //ele,freq
             while(e <= n-1){
-                if(fn(s,e,nums,x)){
-                    cnt++;
+                mp[nums[e]]++;
+                if(e-s+1 > k){
+                    mp[nums[s]]--;
+                    if(mp[nums[s]] == 0){
+                        mp.erase(nums[s]);
+                    }
+                    s++;
                 }
-                s++;
+                if(e-s+1 == k){
+                    if(mp.count(x)) cnt++;
+                }
+                
                 e++;
             }
+            
             if(cnt == 1){
                 ans=max(ans,x);
             }
