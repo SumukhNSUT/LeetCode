@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SumukhNSUT/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SumukhNSUT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/SumukhNSUT/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [1386-cinema-seat-allocation](https://github.com/SumukhNSUT/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SumukhNSUT/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SumukhNSUT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/SumukhNSUT/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/SumukhNSUT/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumukhNSUT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/SumukhNSUT/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SumukhNSUT/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1386-cinema-seat-allocation](https://github.com/SumukhNSUT/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
