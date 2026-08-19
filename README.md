@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SumukhNSUT/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2527-find-xor-beauty-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SumukhNSUT/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
+| [2527-find-xor-beauty-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SumukhNSUT/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/2317-maximum-xor-after-operations) |
+| [2527-find-xor-beauty-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
