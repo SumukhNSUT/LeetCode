@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
+| [3527-find-the-most-common-response](https://github.com/SumukhNSUT/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3527-find-the-most-common-response](https://github.com/SumukhNSUT/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Two Pointers
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3527-find-the-most-common-response](https://github.com/SumukhNSUT/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SumukhNSUT/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumukhNSUT/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3527-find-the-most-common-response](https://github.com/SumukhNSUT/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Memoization
 |  |
 | ------- |
