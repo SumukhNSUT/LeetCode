@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SumukhNSUT/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SumukhNSUT/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SumukhNSUT/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SumukhNSUT/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/SumukhNSUT/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/SumukhNSUT/LeetCode/tree/master/0337-house-robber-iii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/SumukhNSUT/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SumukhNSUT/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/SumukhNSUT/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SumukhNSUT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SumukhNSUT/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SumukhNSUT/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SumukhNSUT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SumukhNSUT/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
