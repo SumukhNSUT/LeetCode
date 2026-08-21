@@ -11,8 +11,8 @@ public:
 
             if(mp.count(nums[r])){
                 //shrink window
-                int idx=mp[nums[r]]+1;
-                for(int i=l; i<idx; i++){
+                int idx=mp[nums[r]];
+                for(int i=l; i<=idx; i++){
                     sum-=nums[i];
                     l++;
                     mp[nums[i]]--;
