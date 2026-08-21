@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SumukhNSUT/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0055-jump-game) |
 | [0826-most-profit-assigning-work](https://github.com/SumukhNSUT/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1386-cinema-seat-allocation](https://github.com/SumukhNSUT/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
