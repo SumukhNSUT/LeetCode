@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/SumukhNSUT/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SumukhNSUT/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumukhNSUT/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SumukhNSUT/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SumukhNSUT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SumukhNSUT/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SumukhNSUT/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SumukhNSUT/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SumukhNSUT/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SumukhNSUT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SumukhNSUT/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SumukhNSUT/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SumukhNSUT/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Ordered Set
 |  |
 | ------- |
