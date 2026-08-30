@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/SumukhNSUT/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SumukhNSUT/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/SumukhNSUT/LeetCode/tree/master/0337-house-robber-iii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SumukhNSUT/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
