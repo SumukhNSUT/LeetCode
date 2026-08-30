@@ -1,22 +1,23 @@
 class Solution {
-    int fn(int idx, vector<int>&nums, int n,vector<int>&dp){
-        //n-> size of nums
-        if(idx >= n) return 0;
-        if(idx==n-1) return nums[idx];
+private:
+    int fn(int idx, vector<int>&nums, vector<int>&dp){
+        if(idx==0) return nums[0];
+        if(idx==1) return max(nums[0],nums[1]);
 
         if(dp[idx] != -1) return dp[idx];
-        //general idx
-        int pick=nums[idx]+fn(idx+2,nums,n,dp); //idx pe khade hoke kya options hai, idx+2 pe jaaunga
-        int npick=0+fn(idx+1,nums,n,dp); //idx ko pick nhi kiya hai, ab kya option hai, idx+1 pe jaaunga
-        dp[idx]=max(pick,npick);
+
+        int npick=-1e9;
+        int pick=-1e9;
+        if(idx >= 1) npick=fn(idx-1,nums,dp);
+        if(idx >= 2) pick=nums[idx]+fn(idx-2,nums,dp);
+        dp[idx]= max(pick,npick);
         return dp[idx];
     }
 public:
     int rob(vector<int>& nums) {
+        //n-1 se 0 pe jaaunga and max sum return karna hai
         int n=nums.size();
         vector<int> dp(n,-1);
-        //0 to n-1 jaaunga
-        //fn(idx)=> idx se n-1 tak max money
-        return fn(0,nums,n,dp);
+        return fn(n-1,nums,dp);
     }
 };
