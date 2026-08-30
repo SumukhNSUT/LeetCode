@@ -1,32 +1,25 @@
 class Solution {
 private:
-    int fn(int row, int col, vector<vector<int>>&mat, vector<vector<int>> &dp){
-        int m=mat.size();
-        int n=mat[0].size();
-        //base case
-        if(row==m-1 && col==n-1){
-            return 1;
-        }
-
-        int d=0;
-        int r=0;
+    int fn(int row, int col, vector<vector<int>>&grid, vector<vector<int>>&dp){
+        if(row<0 || col <0) return 0; //invalid path
+        if(grid[row][col] == 1) return 0; //invalid path
+        if(row==0 && col==0) return 1;
+        
         if(dp[row][col] != -1) return dp[row][col];
-        //down
-        if(row <= m-2 && mat[row+1][col] != 1){
-            d=fn(row+1,col,mat,dp);
-        }
-        //right
-        if(col <= n-2 && mat[row][col+1] != 1){
-            r=fn(row,col+1,mat,dp);
-        }
-        return dp[row][col]=d+r;
+
+        int up=fn(row-1,col,grid,dp);
+        int left=fn(row,col-1,grid,dp);
+
+        return dp[row][col]=up+left;
     }
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m=obstacleGrid.size();
-        int n=obstacleGrid[0].size();
-        if(obstacleGrid[0][0] == 1 || obstacleGrid[m-1][n-1]==1) return 0;
-        vector<vector<int>>dp(m,vector<int>(n, -1));
-        return fn(0,0,obstacleGrid,dp);
+        //[n-1,m-1] se [0,0] pe aa rha hu
+        int n=obstacleGrid.size();
+        int m=obstacleGrid[0].size();
+        if(obstacleGrid[n-1][m-1] == 1) return 0; //cant reach
+        vector<vector<int>>dp(n,vector<int>(m,-1));
+
+        return fn(n-1,m-1,obstacleGrid,dp);
     }
 };
