@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SumukhNSUT/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SumukhNSUT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SumukhNSUT/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
 | [0740-delete-and-earn](https://github.com/SumukhNSUT/LeetCode/tree/master/0740-delete-and-earn) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
 ## Number Theory
