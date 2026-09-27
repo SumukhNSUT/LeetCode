@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/SumukhNSUT/LeetCode/tree/master/0648-replace-words) |
 | [0784-letter-case-permutation](https://github.com/SumukhNSUT/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/SumukhNSUT/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumukhNSUT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SumukhNSUT/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1447-simplified-fractions](https://github.com/SumukhNSUT/LeetCode/tree/master/1447-simplified-fractions) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/SumukhNSUT/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SumukhNSUT/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/SumukhNSUT/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumukhNSUT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SumukhNSUT/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3523-make-array-non-decreasing](https://github.com/SumukhNSUT/LeetCode/tree/master/3523-make-array-non-decreasing) |
 ## Simulation
@@ -569,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SumukhNSUT/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumukhNSUT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
