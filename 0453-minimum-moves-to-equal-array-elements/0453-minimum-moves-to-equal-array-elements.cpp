@@ -12,3 +12,7 @@ public:
         return ans;
     }
 };
+
+// Incrementing n-1 elements by 1 is equivalent to decrementing one element by 1 (since subtracting 1 from every element doesn't affect equality).
+
+// So, optimally, reduce every element to the minimum element.
