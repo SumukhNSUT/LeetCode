@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SumukhNSUT/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumukhNSUT/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SumukhNSUT/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SumukhNSUT/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SumukhNSUT/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SumukhNSUT/LeetCode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SumukhNSUT/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SumukhNSUT/LeetCode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/SumukhNSUT/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/SumukhNSUT/LeetCode/tree/master/0877-stone-game) |
